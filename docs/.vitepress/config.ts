@@ -40,7 +40,7 @@ export default defineConfig({
       }
     `]
   ],
-  base: '/vitepress-tutorial-template/',
+  base: '/vitepress-tutorial-template-cn/',
   title: "Vitepress Tutorial Template",
   description: "Starter template for Vitepress documentation sites, especially for tutorials and academic documentation.",
   lang: 'zh-CN',
