@@ -11,10 +11,10 @@ hero:
     alt: 项目 Logo 占位符
   actions:
     - theme: brand
-      text: 🚀 快速开始
+      text: 🚀 内容A
       link: /content_A/A1
     - theme: alt
-      text: 📊 方法论汇总
+      text: 📊 内容B
       link: /content_B/B1
 
 features:

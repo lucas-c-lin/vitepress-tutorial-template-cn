@@ -47,10 +47,10 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '精选教程', link: '/content_A/A1' },
-      { text: '产品对比', link: '/content_B/B1' },
-      { text: '方法对比', link: '/content_B/B2' },
-      { text: '模型对比', link: '/content_C/C1' }
+      { text: '内容A', link: '/content_A/A1' },
+      { text: '内容B', link: '/content_B/B1' },
+      { text: '内容C', link: '/content_B/B2' },
+      { text: '内容D', link: '/content_C/C1' }
     ],
     sidebar: [
       {
