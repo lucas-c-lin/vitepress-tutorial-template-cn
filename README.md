@@ -11,7 +11,7 @@
 
 [模板预览](https://lucas-c-lin.github.io/vitepress-tutorial-template-cn/)
 
-*一个我与Gemini, Claude共同创作的网页框架*
+*一个我与Gemini, Claude共同创作的项目*
 
 ## 目录
 
