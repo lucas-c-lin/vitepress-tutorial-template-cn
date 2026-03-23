@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: 🚀 快速开始
-      link: /guide/index
+      link: /content_A/A1
     - theme: alt
       text: 📊 方法论汇总
-      link: /methods/index
+      link: /content_B/B1
 
 features:
   - title: 📖 结构化教程
