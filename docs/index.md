@@ -7,7 +7,7 @@ hero:
   tagline: "极简风格 · 逻辑严密 · 教程导向 · 数据驱动。<br>在此输入你的项目愿景或副标题。"
   # 💡 提示：图片建议放在 public 文件夹下，更名为 hero-logo.png
   image:
-    src: /hero-logo.png
+    src: /hero-group.png
     alt: 项目 Logo 占位符
   actions:
     - theme: brand
