@@ -1,7 +1,7 @@
 {
-  "name": "openclaw-learning-hub-cn",
+  "name": "vitepress-tutorial-template-cn",
   "version": "1.0.0",
-  "description": "专注于 OpenClaw 的精选中文资源导航站。",
+  "description": "基于 VitePress 的极简苹果风格中文模板",
   "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
