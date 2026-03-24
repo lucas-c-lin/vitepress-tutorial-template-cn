@@ -46,7 +46,10 @@ export default defineConfig({
   lang: 'zh-CN',
   themeConfig: {
     search: {
-      provider: 'local'
+      provider: 'local',
+      options: {
+        placeholder: '搜索'
+      }
     },
     nav: [
       { text: '首页', link: '/' },
