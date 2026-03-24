@@ -48,7 +48,6 @@ export default defineConfig({
     search: {
       provider: 'local',
       options: {
-        placeholder: '搜索',
         translations: {
           button: {
             buttonText: '搜索',
@@ -65,7 +64,7 @@ export default defineConfig({
           }
         }
       }
-    }
+    },
     nav: [
       { text: '首页', link: '/' },
       { text: '内容A', link: '/content_A/A1' },
