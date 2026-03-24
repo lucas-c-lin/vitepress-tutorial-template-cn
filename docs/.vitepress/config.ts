@@ -45,6 +45,9 @@ export default defineConfig({
   description: "Starter template for Vitepress documentation sites, especially for tutorials and academic documentation.",
   lang: 'zh-CN',
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: '首页', link: '/' },
       { text: '内容A', link: '/content_A/A1' },
