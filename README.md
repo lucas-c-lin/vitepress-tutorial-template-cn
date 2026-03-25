@@ -11,6 +11,8 @@
 
 [模板预览](https://lucas-c-lin.github.io/vitepress-tutorial-template-cn/)
 
+[本教程的飞书文档版](https://my.feishu.cn/docx/W9yed2jjqoB01qxkeBmcLHqUn0e?from=from_copylink)
+
 *一个我与Gemini, Claude共同创作的项目*
 
 ## 目录
